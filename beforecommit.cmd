@@ -1,1 +1,1 @@
-gzip -c -d -S.als vroemvroem.als > vroemvoem.xml
+gzip -c -d -S.als vroemvroem.als > vroemvroem.xml
