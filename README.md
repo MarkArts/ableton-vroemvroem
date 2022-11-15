@@ -1,5 +1,6 @@
 # Ableton project for the amazing track vroemvroem
 ## Requirments
+* gzip
 * Ableton 11.1
 * Probaply windows
 
