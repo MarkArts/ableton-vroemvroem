@@ -1,4 +1,8 @@
 # Ableton project for the amazing track vroemvroem
+## Requirments
+* Ableton 11.1
+* Probaply windows
+
 ## Setup
 After each pull run (double click) the `afterpull.cmd` file to generate the ableton project file.
 Then open (double click) the `vroemvroem.als` file and you are ready to go
